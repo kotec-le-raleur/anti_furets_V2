@@ -5,6 +5,7 @@
   * un montage plus astucieux pour commander le HP Piézo ( genre de push-pull)
   * un opto-coupleur et triac  8A pour commander une grosse lampe ( coupure au zéro secteur avec un MOC3041)
   * un fusible sur le 12V
+  * une carte 80X40 mm faite chez JLCPCB . Le luxe !
 
 Dispositif générateur d'ultra-sons et de flashs lumineux pour effrayer les nuisibles dans un grenier
 
