@@ -1,3 +1,3 @@
-Attention </b>
-la carte a completment changé </b>
-les pins I/O aussi, donc il se peut que le code soit faux en ce qui converne les N° de pins </b>
+# Attention  
+la carte a __completment changé__  
+les pins I/O aussi, donc il se peut que le code soit __faux__ en ce qui concerne les N° de pins  
