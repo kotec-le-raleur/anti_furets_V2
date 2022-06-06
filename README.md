@@ -20,7 +20,7 @@ Il faut penser à installer le core ATTiny85 qui implémente la fonction Tone() 
 
 Test en vrai: j'ai deux montages comme celui-là dans mon grenier depuis 2 ans !  
 il faut bien le placer dans le chemin emprunté par les furets (ou fouines )  
-J'ai ajouté des cubes de déodorants pour WC dans les passages et deux diffuseurs ambi-pur océan  (les plus puants )
+J'ai ajouté des cubes de déodorants pour WC dans les passages et deux diffuseurs ambi-pur océan  (les plus puants )  
 Ces saloperies de bestioles se sont barrés pour l'instant , mais la guerre contibue ....  
 Bientôt les pièges électriques et mortels !  
 
